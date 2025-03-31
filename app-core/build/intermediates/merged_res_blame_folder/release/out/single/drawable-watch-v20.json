@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.core.app-core-merged_res-19:/drawable-watch-v20/abc_dialog_material_background.xml",
+        "source": "com.qualcomm.qti.gaiaclient.core.app-core-appcompat-1.5.1-9:/drawable-watch-v20/abc_dialog_material_background.xml"
+    }
+]

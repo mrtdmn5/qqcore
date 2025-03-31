@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.core.app-core-merged_res-19:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.qualcomm.qti.gaiaclient.core.app-core-core-1.8.0-14:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.core.app-core-merged_res-19:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.qualcomm.qti.gaiaclient.core.app-core-core-1.8.0-14:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.core.app-core-merged_res-19:/layout-v21/notification_action.xml",
+        "source": "com.qualcomm.qti.gaiaclient.core.app-core-core-1.8.0-14:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.qualcomm.qti.gaiaclient.core.app-core-merged_res-19:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.qualcomm.qti.gaiaclient.core.app-core-core-1.8.0-14:/layout-v21/notification_template_custom_big.xml"
+    }
+]

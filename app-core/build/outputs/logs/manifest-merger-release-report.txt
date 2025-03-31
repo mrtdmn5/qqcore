@@ -1,0 +1,36 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\xocchiali\android\app-core\src\main\AndroidManifest.xml:7:1-15:12
+INJECTED from C:\xocchiali\android\app-core\src\main\AndroidManifest.xml:7:1-15:12
+	package
+		INJECTED from C:\xocchiali\android\app-core\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\xocchiali\android\app-core\src\main\AndroidManifest.xml:7:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\xocchiali\android\app-core\src\main\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from C:\xocchiali\android\app-core\src\main\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\xocchiali\android\app-core\src\main\AndroidManifest.xml:10:5-74
+	android:name
+		ADDED from C:\xocchiali\android\app-core\src\main\AndroidManifest.xml:10:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\xocchiali\android\app-core\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\xocchiali\android\app-core\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\xocchiali\android\app-core\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\xocchiali\android\app-core\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from C:\xocchiali\android\app-core\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from C:\xocchiali\android\app-core\src\main\AndroidManifest.xml:13:22-73
+uses-sdk
+INJECTED from C:\xocchiali\android\app-core\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\xocchiali\android\app-core\src\main\AndroidManifest.xml
+INJECTED from C:\xocchiali\android\app-core\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\xocchiali\android\app-core\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\xocchiali\android\app-core\src\main\AndroidManifest.xml

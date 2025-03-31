@@ -1,0 +1,2 @@
+com.qualcomm.qti.gaiaclient.core
+string app_name
